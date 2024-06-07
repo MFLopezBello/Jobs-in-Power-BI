@@ -17,15 +17,6 @@ Throughout this presentation, practical cases reflecting real-world scenarios ar
 The purpose of this portfolio is to demonstrate not only technical competence in using Power BI but also the ability to transform data into valuable and actionable information. I hope that this journey through the various projects is illustrative and showcases the potential of Power BI as a transformative tool in data analysis.
     <div>
         <img src="https://github.com/MFLopezBello/MFLopezBello/blob/main/src/icons8-panel-de-control-64.png" />;
-        <img src="https://github.com/MFLopezBello/MFLopezBello/blob/main/src/icons8-software-tableau-48.png" title="Tableau" alt="Tableau" width="40" height="40" />&nbsp;
-        
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />&nbsp;
-        <img src="https://github.com/MFLopezBello/MFLopezBello/blob/main/src/icons8-kali-linux-48.png" title="Kali" alt="Kali" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40" />&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" title="Windows" alt="Windows" width="40" height="40" />&nbsp;
+        <img src="https://github.com/MFLopezBello/MFLopezBello/blob/main/src/icons8-métricas-del-portátil-64.png"/>;
 </div>
 
-src/icons8-panel-de-control-64.png
-
-src/icons8-métricas-del-portátil-64.png
